@@ -1,9 +1,10 @@
 # IPTV Playlist Collection
 
-🌟 **请点个小星星 Starred 支持本项目！** 🌟
+🌟 **请点个小星星 Starred 支持本项目！**如果不能播放，请加群看解决方案** 🌟
 
 本仓库收集和分享了一些 IPTV m3u 播放列表，适用于各类 IPTV 播放器，方便电视、盒子或软件端直接导入测试和体验。  
 Telegram 群：[欢迎加入](https://t.me/GPT_858)
+
 
 ---
 
@@ -32,7 +33,7 @@ Telegram 群：[欢迎加入](https://t.me/GPT_858)
 - beesports: [`https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u`](https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u)
 - logo-smart: [`https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u`](https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u)
 - smart: [`https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u`](https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u)
-- ofiii点播全站数据(自动同步) 直接打开网页播放，不是订阅: [`https://ofiii.passwdword.xyz/ofiii.php`](https://ofiii.passwdword.xyz/ofiii.php)
+- ofiii点播全站数据(自动同步) 直接打开网页播放，不是订阅: [`https://edgeone.passwdword.xyz/ofiii.php`](https://edgeone.passwdword.xyz/ofiii.php)
 
 
 
